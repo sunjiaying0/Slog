@@ -5,5 +5,5 @@
 
 - 本文档用于学习记录
 
-[GitHub](<https://github.com/sunjiaying0/Blog>)
+[GitHub](<https://github.com/sunjiaying0/Slog>)
 [开始阅读](README.md)
