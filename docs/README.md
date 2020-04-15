@@ -1,7 +1,3 @@
-# ❤️
+# Headline
 
-<br>
-<br>
-<br>
-
-> hi bro ～
+> An awesome project.
