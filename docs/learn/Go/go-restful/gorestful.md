@@ -1,11 +1,11 @@
-## restful
+# restful
 
 REST（Representational State Transfer，表现层状态转化）是近几年使用较广泛的分布式结点间同步通信的实现方式。REST原则描述网络中client-server的一种交互形式，即用URL定位资源，用HTTP方法描述操作的交互形式。如果CS之间交互的网络接口满足REST风格，则称为RESTful API。以下是 理解RESTful架构 总结的REST原则：
 * 网络上的资源通过URI统一标示。
 * 客户端和服务器之间传递，这种资源的某种表现层。表现层可以是json，文本，二进制或者图片等。
 * 客户端通过HTTP的四个动词，对服务端资源进行操作，实现表现层状态转化。
 
-## go-restful
+## go restful
 
 go-restful is a package for building REST-style Web Services using Google Go <br>
 
